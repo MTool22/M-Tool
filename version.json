@@ -1,7 +1,7 @@
 {
-    "version": "3.0.0",
-    "versionCode": 3,
-    "downloadUrl": "https://github.com/MTool22/M-Tool/releases/download/v2.0.0/M.Tool_1.0.0.apk",
-    "message": "🆕 Phiên bản 3.0.0!",
+    "version": "2.0.0",
+    "versionCode": 1,
+    "downloadUrl": "https://github.com/MTool22/M-Tool/releases/download/v2.0.0/M.Tool_2.0.0.apk",
+    "message": "🆕 Phiên bản 2.0.0!",
     "forceUpdate": true
 }
